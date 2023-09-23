@@ -1,4 +1,5 @@
-![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
+ <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Md. Masud Mazumder</h1>
 <h3 align="center">Know Thyself</h3>
 
@@ -47,3 +48,5 @@
 <a href="https://www.codechef.com/users/coderm" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderm" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vitamincpp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vitamincpp" height="30" width="40" /></a>
 </p>
+
+ <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
