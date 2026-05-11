@@ -75,11 +75,12 @@
 
 <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
-  <a href="https://twitter.com/masudmazumder19" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masudmazumder19" height="50" width="60" /></a>
-  <a href="https://linkedin.com/in/masud159292" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masud159292" height="50" width="60" /></a>
-  <a href="https://fb.com/masud159292" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masud159292" height="50" width="60" /></a>
-  <a href="https://www.codechef.com/users/coderm" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="coderm" height="50" width="60" /></a>
-  <a href="https://codeforces.com/profile/vitamincpp" target="blank"><img align="" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vitamincpp" height="50" width="60" /></a>
+<table align="center"><tr>
+  <td align="center"><a href="https://twitter.com/masudmazumder19" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="60" /></a></td>
+  <td align="center"><a href="https://linkedin.com/in/masud159292" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" /></a></td>
+  <td align="center"><a href="https://fb.com/masud159292" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="60" /></a></td>
+  <td align="center"><a href="https://www.codechef.com/users/coderm" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="50" width="60" /></a></td>
+  <td align="center"><a href="https://codeforces.com/profile/vitamincpp" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="50" width="60" /></a></td>
+</tr></table>
 </p>
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
