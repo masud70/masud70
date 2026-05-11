@@ -75,7 +75,7 @@
 
 <h2 align="center">🤝 Connect with Me</h2>
 <p align="center">
-<table align="center"><tr>
+<table align="center" border=0><tr>
   <td align="center"><a href="https://twitter.com/masudmazumder19" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="50" width="60" /></a></td>
   <td align="center"><a href="https://linkedin.com/in/masud159292" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="60" /></a></td>
   <td align="center"><a href="https://fb.com/masud159292" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="60" /></a></td>
